@@ -13,3 +13,5 @@ Methods implemented:
 * Supporting tools
 
 > Note: ISVD 1 is not yet implemented in this python code. Need help
+
+Face image data is available in `"isvd/data/"` (god please forgive me for uploading dataset to my repository)
